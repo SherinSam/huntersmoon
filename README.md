@@ -100,4 +100,4 @@ $ gem install terminal-table
 * Bashir Towdiee
 
 ## Links
-[My GitHub](https://github.com/Simon-Truong/huntersmoon)
+[My GitHub](https://github.com/SherinSam/huntersmoon)
